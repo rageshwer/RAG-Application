@@ -14,6 +14,9 @@ langchain-core
 langchain-openai
 openai
 
+# Mistral
+langchain-mistralai
+
 # Anthropic Integration
 langchain-anthropic
 
@@ -27,6 +30,7 @@ transformers
 accelerate
 bitsandbytes
 huggingface-hub
+sentence-transformers
 
 # Environment Variable Management
 python-dotenv
@@ -37,3 +41,6 @@ scikit-learn
 
 streamlit
 pydantic
+
+# Vector DB
+langchain-chroma
